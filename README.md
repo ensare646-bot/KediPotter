@@ -1,24 +1,14 @@
 # KediPotter
 That KediPotter Bİo
 
+Merhbalar ✋  
 
+YAzılımla İlgenen Bi  Bireyim İstediğim Zaman Program Yapıp Bunu Test Edip İnsanlara Sunarım Oyun hileleri Oyun bellek Manupülasyonu Yapmakta Pek iyi Deilim 😂
 
-KediPotter Bedava Disocrd Moderasyon Botudur Prefix "/" Olarak Ayarlanmıştır 
+Discord Bot veya Website Dilini yazmaktan Çok keyif Alırım 
 
-Bottaki değişiklikler İçin
+Bu Bio dahada Derinleşicek Sadece Bulunduğun bazı yerlerden Dolayı Bu kadar Kendinize Çok iyi Bakın
 
-config.json 
-"Bot Tokeni vb Şeyleri Entegre etme"
+Websitem: codevrabots.web.app
 
-.env 
-"Guild İd ( Sunucu İd İçin Gerekli)
-
-BUnları Entegre Ederk Botunuzu Başlatabilirsiniz npm Kurulumu Çalıştırarak Paketleri Kurabilirsiniz
-
-Sorun Çıkarsa
-
-dc: vermilgold
-
-dc: discord.gg/codevra
-
-
+My Bİo: kedipotter.web.app

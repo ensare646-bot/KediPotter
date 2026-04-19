@@ -3,7 +3,7 @@ That KediPotter Bİo
 
 Merhbalar ✋  
 
-YAzılımla İlgenen Bi  Bireyim İstediğim Zaman Program Yapıp Bunu Test Edip İnsanlara Sunarım Oyun hileleri Oyun bellek Manupülasyonu Yapmakta Pek iyi Deilim 😂
+YAzılımla İlgenen Bi  Bireyim İstediğim Zaman Program Yapıp Bunu Test Edip İnsanlara Sunarım 
 
 Discord Bot veya Website Dilini yazmaktan Çok keyif Alırım 
 
